@@ -1,4 +1,6 @@
 # Helpful-User-Interface-Snippets
 
-<img src="images/4_ch_text_display.jpg" width="500">
+You could display live parameters you are monitoring with the QT-PY test snippet
+
+<img src="images/4_ch_text_display.jpg" width="700">
 
